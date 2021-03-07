@@ -1,3 +1,2 @@
-# python_bootcamp
-# Learning to use Anaconda and Jupyter Notebook
+Working on different small python projects
 
