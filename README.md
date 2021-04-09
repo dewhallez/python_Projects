@@ -1,2 +1,2 @@
-Solving differents problems wiht Python
+Solving different problems using Python
 
