@@ -1,2 +1,2 @@
-Working on different small python projects
+Solving differents problems wiht Python
 
