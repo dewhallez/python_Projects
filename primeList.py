@@ -6,10 +6,14 @@ def primeList(number):
     # check for prime number in range provided
     for primes in range(2, number + 1):        
         is_number_Prime = True
+
         for num in range(2, int(primes ** 0.5) + 1):
             # check for non-prime numbers
             if primes % num == 0:
-                is_number_Prime = False        
+                is_number_Prime = False  
+                break     
+            
+              
         if is_number_Prime:
             primeNumbers.append(primes)
     return(primeNumbers)
