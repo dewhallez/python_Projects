@@ -1,6 +1,6 @@
 print("Welcome to the Letter Counter App")
 
-# et user input.
+#Get user input.
 name = input("\nWhat is your name: ").title().strip()
 print("Hello, " + name + "!")
 
