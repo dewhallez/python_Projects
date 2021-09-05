@@ -1,3 +1,4 @@
+# simple code snippet to solve fibonacci sequence and printing out each number
 a = 0
 b = 0
 c = 1
@@ -9,4 +10,3 @@ for i in range(15):
     b = c
     c = a
 
-    
