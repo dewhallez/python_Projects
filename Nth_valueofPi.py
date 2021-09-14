@@ -2,7 +2,7 @@
 from math import pi
 
 
-# This program will calculate to a given number of digits using Pi function from the Math Library.
+# This program will calculate PI to a given number of digits using Pi function from the Math Library.
 
 Nplace = int(input("How many decimal places would you like to calculate: "))
 # Set limit of decimal places program can calculate
