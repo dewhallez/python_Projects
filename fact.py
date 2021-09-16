@@ -6,5 +6,6 @@ def fact(i):
     else:
         return i * (i - 1)
 
+# test function
 print(fact(10))
 print(fact(5))
