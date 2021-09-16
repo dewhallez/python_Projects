@@ -1,3 +1,6 @@
+# Bubble sort in python
+
+
 def findSmallest(array):
     smallest = array[0]
     smallest_index = 0
