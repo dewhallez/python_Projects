@@ -1,4 +1,4 @@
-# Bubble sort in python
+# Bubble sort in python with recursive function
 
 
 def findSmallest(array):
@@ -22,4 +22,4 @@ def selectSort(array):
     return newArray
 
 
-print(selectSort([75, 31, 46, 5, 23, 14, 38]))
+print(selectSort([75, 31, 46, 5, 23, 14, 38, 2, 55, 33, 65, 101, 1, 7]))
