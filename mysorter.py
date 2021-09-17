@@ -1,6 +1,6 @@
-# Bubble sort in python with recursive function
+# Selection sort in python with recursive function
 
-
+# Selection sort function 
 def findSmallest(array):
     smallest = array[0]
     smallest_index = 0
@@ -23,3 +23,4 @@ def selectSort(array):
 
 
 print(selectSort([75, 31, 46, 5, 23, 14, 38, 2, 55, 33, 65, 101, 1, 7]))
+
