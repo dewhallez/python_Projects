@@ -2,7 +2,7 @@
 
 # Python fizzbuzz implementation
 
-for num in range (1, 25):
+for num in range(1, 25):
     #check if number is divisible by both 3 and 5
     if num % 3 == 0 and num % 5 == 0:
         print("FizzBuzz")
